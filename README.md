@@ -36,6 +36,11 @@
 
 ![gulshankartikk's Stats](https://github-readme-stats.vercel.app/api?username=gulshankartikk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![gulshankartikk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gulshankartikk&theme=vue-dark&hide_border=true)
+![gulshankartikk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gulshankartikk&theme=vue-dark&hide_border=true)
+![gulshankartikk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gulshankartikk&theme=vue-dark&hide_border=true)
+![gulshankartikk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gulshankartikk&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 <!--
 **Gulshankartikk/gulshankartikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
