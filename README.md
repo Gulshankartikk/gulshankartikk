@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+  <img alt="Profile Header" src="" width="100%">
+</div>
+
 <h1 align="center">Hi 👋, I'm Gulshankartikk</h1>
 <h3 align="center">Hi there! I’m Gulshan, a software engineering student and tech enthusiast. 🔍 Interested in machine learning, web development, and open-source projects. 🌱 Currently learning React and Node.js. ⚡ Fun fact: I love turning ideas into code and solving real-world problems!</h3>
 
