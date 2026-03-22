@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Gulshan%20Kumar&fontSize=55&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20DevOps&descAlignY=70&animation=fadeIn&color=0:141E30,50:243B55,100:0f2027"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+MERN+Developer;⚙️+Backend+Focused+Engineer;☁️+DevOps+%26+Cloud+Learner;🔥+Building+Production-Ready+Apps"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+MERN+Developer;⚙️+Backend+Focused+Engineer;🧠+DSA+%2B+C%2B%2B+Practitioner;☁️+DevOps+%26+Cloud+Learner"/>
 
-<img src="https://komarev.com/ghpvc/?username=gulshankartikk&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=gulshankartikk&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
@@ -16,9 +16,25 @@
 Name: Gulshan Kumar
 Role: Full Stack Developer (MERN)
 Focus: Backend Architecture & Scalable Systems
+DSA: Solved 100+ problems using C++
 Learning: DevOps | Docker | AWS | System Design
 Goal: Build production-grade applications 🚀
 ```
+
+---
+
+## 🧠 DSA & Problem Solving
+
+* 🧩 Solved **100+ DSA problems in C++**
+* ⚡ Strong understanding of:
+
+  * Arrays, Strings, Linked List
+  * Stack, Queue, Recursion
+  * Trees, Graphs (Basics)
+* 📈 Practicing consistently on:
+
+  * LeetCode
+  * GeeksforGeeks
 
 ---
 
@@ -108,8 +124,8 @@ Goal: Build production-grade applications 🚀
 
 * 🐳 Dockerized MERN applications
 * ☁️ AWS deployment pipelines
+* 🧠 Improving DSA problem-solving speed
 * ⚙️ Scalable backend systems
-* 🧠 System design fundamentals
 
 ---
 
@@ -117,11 +133,11 @@ Goal: Build production-grade applications 🚀
 
 <div align="center">
 
-| Role                 | Availability |
-| -------------------- | ------------ |
-| 💻 Full Stack Intern | ✅ Open       |
-| ⚙️ Backend Developer | ✅ Open       |
-| 🚀 Software Engineer | ✅ Open       |
+| Role                 | Status |
+| -------------------- | ------ |
+| 💻 Full Stack Intern | ✅ Open |
+| ⚙️ Backend Developer | ✅ Open |
+| 🚀 Software Engineer | ✅ Open |
 
 </div>
 
@@ -159,7 +175,7 @@ Goal: Build production-grade applications 🚀
 
 <div align="center">
 
-✨ *“Consistency beats talent when talent doesn’t work hard.”*
+🔥 *Consistency + DSA + Projects = Cracked Developer Path*
 
 🚀 Always building. Always improving.
 
