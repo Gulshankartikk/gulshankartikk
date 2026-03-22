@@ -1,102 +1,166 @@
-👋 Hi there
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Gulshan%20Kumar&fontSize=40&fontColor=ffffff&desc=Full%20Stack%20MERN%20Developer%20|%20DevOps%20Learner&descAlignY=65&color=0:1e3c72,100:2a5298" width="100%" /> </div> <h1 align="center">Hi 👋, I'm Gulshan Kumar</h1> <h3 align="center"> Software Engineering Student | Full Stack MERN Developer 🚀 </h3> <p align="center"> I build scalable full-stack web applications using the <b>MERN stack</b>, with a strong focus on clean backend architecture, real-time systems, and performance optimization. Passionate about DevOps, cloud technologies, and writing production-ready code. </p>
-🎯 Career Focus
+<div align="center">
 
-💻 Full Stack MERN Developer (Frontend + Backend)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Gulshan%20Kumar&fontSize=55&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20DevOps&descAlignY=70&animation=fadeIn&color=0:141E30,50:243B55,100:0f2027"/>
 
-⚙️ Learning DevOps, Docker & CI/CD
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+MERN+Developer;⚙️+Backend+Focused+Engineer;☁️+DevOps+%26+Cloud+Learner;🔥+Building+Production-Ready+Apps"/>
 
-🧠 Strong focus on Data Structures & Problem Solving
+<img src="https://komarev.com/ghpvc/?username=gulshankartikk&label=Profile%20Views&color=0e75b6&style=flat" />
 
-☁️ Exploring AWS & Cloud Deployment
+</div>
 
-🤝 Seeking Internship / Entry-Level Developer Roles
+---
 
-🧩 Tech Stack
+## 🧑‍💻 About Me
 
-Frontend: React.js, JavaScript (ES6+), HTML5, CSS3
-Backend: Node.js, Express.js, REST APIs, JWT Authentication
-Database: MongoDB, Mongoose
-Tools: Git, GitHub, Postman, Netlify, Render
-DevOps (Learning): Docker, CI/CD Basics
-Languages: JavaScript, C++, Python
+```yaml
+Name: Gulshan Kumar
+Role: Full Stack Developer (MERN)
+Focus: Backend Architecture & Scalable Systems
+Learning: DevOps | Docker | AWS | System Design
+Goal: Build production-grade applications 🚀
+```
 
-🏆 Key Projects
-💬 Flash Chat – Real-Time Chat Application
+---
 
-🔹 Built using MERN + Socket.io for real-time messaging
-🔹 Implemented JWT authentication and protected routes
-🔹 Responsive UI with live user status and chat updates
-🔹 Designed REST APIs for users and messages
+## 🚀 Featured Projects
 
-🔗 Repository:
-https://github.com/Gulshankartikk/Flash-Chat
+### 💬 Flash Chat – Real-Time Chat App
 
-🏫 DR AITD Management System
+> Real-time communication platform with secure authentication
 
-🔹 Role-based system (Admin, Teacher, Student dashboards)
-🔹 Secure authentication & authorization using JWT
-🔹 RESTful APIs for managing academic workflows
-🔹 MongoDB schema design for efficient data handling
+* ⚡ Socket.io for instant messaging
+* 🔐 JWT-based authentication system
+* 📡 Live user tracking & updates
+* 🧠 Optimized backend for performance
 
-🌐 Personal Portfolio
+🔗 https://github.com/Gulshankartikk/Flash-Chat
 
-🔹 Modern responsive developer portfolio website
-🔹 Showcases projects, skills, and contact details
+---
 
-🔗 Repository:
-https://github.com/Gulshankartikk/portfolio-personal-main
+### 🏫 DR AITD Management System
 
-🌱 Currently Learning
+> Complete academic workflow system
 
-DevOps (Docker, CI/CD pipelines)
+* 👨‍🏫 Role-based dashboards
+* 🔐 Secure authentication system
+* 📊 Efficient database design
+* 🔄 REST API architecture
 
-Advanced MERN Stack Architecture
+---
 
-AWS Cloud Fundamentals
+### 🌐 Personal Portfolio
 
-System Design Basics
+> Modern developer portfolio
 
-🧠 Currently Improving
+* 🎨 Clean UI/UX
+* 📱 Fully responsive
+* ⚡ Optimized performance
 
-Writing cleaner, scalable backend code
+🔗 https://github.com/Gulshankartikk/portfolio-personal-main
 
-Improving DSA problem-solving speed
+---
 
-Building production-ready full stack applications
+## ⚙️ Tech Stack
 
-💬 Ask Me About
+<div align="center">
 
-MERN Stack Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,cpp,python,docker,aws,git,github&theme=dark"/>
 
-Backend APIs & Authentication
+</div>
 
-JavaScript & C++
+---
 
-Database Design & REST APIs
+## 📊 GitHub Analytics
 
-📫 Contact
+<div align="center">
 
-📧 Email: kg8726321083@gmail.com
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gulshankartikk&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🌐 Connect With Me
-<p align="left"> <a href="https://twitter.com/gulshankartikk" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35"/> </a> <a href="https://www.linkedin.com/in/gulshan-kumar-192852378/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/> </a> <a href="https://leetcode.com/u/gulshankartikk/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35"/> </a> <a href="https://www.geeksforgeeks.org/user/kg87263w1xq/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="35"/> </a> </p>
-🛠️ Languages & Tools
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gulshankartikk&show_icons=true&theme=vue-dark&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulshankartikk&theme=vue-dark&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshankartikk&layout=compact&theme=vue-dark&hide_border=true"/> </p>
-🔜 What’s Next?
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gulshankartikk&theme=tokyonight&hide_border=true"/>
 
-🧠 MERN, JavaScript & Backend Interview Preparation
+</div>
 
-📈 Consistent DSA Practice (LeetCode & GFG)
+<div align="center">
 
-🎨 Improving Portfolio UI/UX & Performance
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshankartikk&layout=compact&theme=tokyonight&hide_border=true"/>
 
-💼 Preparing for Internships & Developer Roles
+</div>
 
-🚀 Always learning, improving, and moving forward step by step.
+---
 
-⚡ Fun Fact
+## 📈 Contribution Graph
 
-I enjoy debugging and improving code quality more than writing new code 😄
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gulshankartikk&theme=tokyo-night"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gulshankartikk/gulshankartikk/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+## 🔨 Currently Building
+
+* 🐳 Dockerized MERN applications
+* ☁️ AWS deployment pipelines
+* ⚙️ Scalable backend systems
+* 🧠 System design fundamentals
+
+---
+
+## 💼 Open To Opportunities
+
+<div align="center">
+
+| Role                 | Availability |
+| -------------------- | ------------ |
+| 💻 Full Stack Intern | ✅ Open       |
+| ⚙️ Backend Developer | ✅ Open       |
+| 🚀 Software Engineer | ✅ Open       |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/gulshan-kumar-192852378">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com/gulshankartikk">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://leetcode.com/u/gulshankartikk/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="45"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/kg87263w1xq/">
+<img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="45"/>
+</a>
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy debugging & optimizing code more than writing new features 😄
+
+---
+
+<div align="center">
+
+✨ *“Consistency beats talent when talent doesn’t work hard.”*
+
+🚀 Always building. Always improving.
+
+</div>
