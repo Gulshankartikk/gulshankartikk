@@ -25,7 +25,7 @@ Goal: Build production-grade applications 🚀
 
 ## 🧠 DSA & Problem Solving
 
-* 🧩 Solved **100+ DSA problems in C++**
+* 🧩 Solved **150+ DSA problems in C++**
 * ⚡ Strong understanding of:
 
   * Arrays, Strings, Linked List
