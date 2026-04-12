@@ -16,7 +16,7 @@
 Name: Gulshan Kumar
 Role: Full Stack Developer (MERN)
 Focus: Backend Architecture & Scalable Systems
-DSA: Solved 100+ problems using C++
+DSA: Solved 170+ problems using C++
 Learning: DevOps | Docker | AWS | System Design
 Goal: Build production-grade applications 🚀
 ```
@@ -25,7 +25,7 @@ Goal: Build production-grade applications 🚀
 
 ## 🧠 DSA & Problem Solving
 
-* 🧩 Solved **150+ DSA problems in C++**
+* 🧩 Solved **170+ DSA problems in C++**
 * ⚡ Strong understanding of:
 
   * Arrays, Strings, Linked List
