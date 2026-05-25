@@ -39,7 +39,7 @@ fun_fact:    "I enjoy debugging more than writing new features 😄"
 
 | 🧩 DSA Problems | 🚀 Projects Built | ⚙️ Technologies | 💻 Primary Language |
 |:-:|:-:|:-:|:-:|
-| **200+** | **3+** | **10+** | **C++** |
+| **200+** | **4+** | **10+** | **C++** |
 
 </div>
 
