@@ -9,6 +9,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=gulshankartikk&label=Profile+Views&color=63b3ed&style=flat-square)](https://github.com/gulshankartikk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/gulshan-kumar-192852378)
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-f6ad55?style=flat-square&logo=leetcode)](https://leetcode.com/u/gulshankartikk/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Gulshankartikk)
+[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-6c5ce7?style=flat-square&logo=react&logoColor=white)](https://codolio.com/profile/Gulshankartikk)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/gulshankartikk)
 
 </div>
@@ -26,7 +28,7 @@ focus:       "Backend Architecture & Scalable Systems"
 dsa_solved:  200  # and counting 🚀
 languages:   ["C++", "JavaScript", "Python"]
 learning:    ["DevOps", "Docker", "AWS", "System Design", "Redis"]
-platforms:   ["LeetCode", "GeeksforGeeks", "HackerRank"]
+platforms:   ["LeetCode", "Codeforces", "GeeksforGeeks", "HackerRank"]
 interests:   ["Open Source", "API Design", "Cloud Infra", "DSA"]
 fun_fact:    "I enjoy debugging more than writing new features 😄"
 ```
@@ -53,9 +55,9 @@ fun_fact:    "I enjoy debugging more than writing new features 😄"
 
 | Difficulty | Count | Platform |
 |:--|:-:|:--|
-| 🟢 Easy | 80+ | LeetCode · GFG |
-| 🟡 Medium | 90+ | LeetCode · GFG |
-| 🔴 Hard | 30+ | LeetCode |
+| 🟢 Easy | 80+ | LeetCode · Codeforces · GFG |
+| 🟡 Medium | 90+ | LeetCode · Codeforces · GFG |
+| 🔴 Hard | 30+ | LeetCode · Codeforces |
 
 </div>
 
@@ -73,11 +75,15 @@ fun_fact:    "I enjoy debugging more than writing new features 😄"
 | #️⃣ Hashing | 15+ | Maps, sets, frequency count, anagram |
 | 🔍 Binary Search | 10+ | Search in rotated array, first/last position |
 
-### 🎯 Practice Platforms
+### 🎯 Practice Platforms & Portfolio Trackers
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-gulshankartikk-f6ad55?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gulshankartikk/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Gulshankartikk-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Gulshankartikk)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-kg87263w1xq-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kg87263w1xq/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00ea64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![Codolio](https://img.shields.io/badge/Codolio-All_In_One_Portfolio-6c5ce7?style=for-the-badge&logo=react&logoColor=white)](https://codolio.com/profile/Gulshankartikk)
+
+> 📌 **All coding stats (LeetCode, Codeforces, GeeksforGeeks) combined in one place →** [View my Codolio Portfolio](https://codolio.com/profile/Gulshankartikk)
 
 ---
 
@@ -225,7 +231,9 @@ fun_fact:    "I enjoy debugging more than writing new features 😄"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gulshan_Kumar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulshan-kumar-192852378)
 [![Twitter](https://img.shields.io/badge/Twitter-@gulshankartikk-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gulshankartikk)
 [![LeetCode](https://img.shields.io/badge/LeetCode-gulshankartikk-f6ad55?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/gulshankartikk/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Gulshankartikk-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Gulshankartikk)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kg87263w1xq/)
+[![Codolio](https://img.shields.io/badge/Codolio-Portfolio-6c5ce7?style=for-the-badge&logo=react&logoColor=white)](https://codolio.com/profile/Gulshankartikk)
 [![GitHub](https://img.shields.io/badge/GitHub-Gulshankartikk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gulshankartikk)
 
 </div>
