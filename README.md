@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Gulshan%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20DSA%20in%20C%2B%2B&descAlignY=62&descSize=18" width="100%"/>
+
 # 👋 Hi, I'm Gulshan Kumar
 
 ### Full Stack Developer · MERN Stack · Backend Engineer · DSA in C++
@@ -93,7 +95,7 @@ fun_fact:    "I enjoy debugging more than writing new features 😄"
 
 > Full-featured real-time communication platform with secure authentication
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Gulshankartikk/Flash-Chat)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Gulshankartikk/Flash-chat)
 ![MERN](https://img.shields.io/badge/Stack-MERN-63b3ed?style=flat-square)
 ![Real-time](https://img.shields.io/badge/Real--time-Socket.io-fc8181?style=flat-square)
 
