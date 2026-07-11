@@ -27,7 +27,7 @@ role:        "Full Stack Developer (MERN)"
 college:     "Dr. Ambedkar Institute of Technology for Divyangjan"
 location:    "Kanpur, Uttar Pradesh, India"
 focus:       "Backend Architecture & Scalable Systems"
-dsa_solved:  200  # and counting 🚀
+dsa_solved:  250+  # and counting 🚀
 languages:   ["C++", "JavaScript", "Python"]
 learning:    ["DevOps", "Docker", "AWS", "System Design", "Redis"]
 platforms:   ["LeetCode", "Codeforces", "GeeksforGeeks", "HackerRank"]
